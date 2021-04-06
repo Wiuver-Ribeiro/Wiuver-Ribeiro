@@ -1,8 +1,9 @@
 ![Wiuver ribeiro (1)](https://user-images.githubusercontent.com/52933241/113751867-bf3aa900-96e2-11eb-8524-7849cdacf9bb.png)
 
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats ) |![Wiuver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiuver-Ribeiro&show_icons=true&theme=radical)                                                 |
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|![Wiuver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiuver-Ribeiro&show_icons=true&theme=radical)  |
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats )                                               |
+
 
 
 
