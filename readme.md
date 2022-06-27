@@ -1,27 +1,36 @@
+
 ![Wiuver ribeiro (1)](https://user-images.githubusercontent.com/52933241/113751867-bf3aa900-96e2-11eb-8524-7849cdacf9bb.png)
 
+<h1 align="center">Olá 👋, sou Wiuver Ribeiro</h1>
+<h3 align="center">Um desenvolvedor Full Stack apaixonado do Brasil</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
 
-|![Wiuver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiuver-Ribeiro&show_icons=true&theme=radical)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiuver-Ribeiro&layout=compact&theme=radical)](https://github.com/Wiuver-Ribeiro/github-readme-stats )|
-|-----------------------------------------------------------------------------|-------------------------------------------------|
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=wiuver-ribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="wiuver-ribeiro" /> </p>
+
+- 🔭 Estou trabalhando no momento ** Psi-Sicoob**
+
+- 🌱 Atualmente estou aprendendo **Java, Grafana e Zabbix**
+
+- 👯 Procuro colaborar no **PDV MSOO**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https: //github.com/Wiuver-Ribeiro](https://github.com/Wiuver-Ribeiro)
+
+- 💬 Pergunte sobre **PHP, JavaScript, HTML**
+
+- 📫 Como me contatar **wiuver.ribeiro@gmail .com**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wiuver ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiuver ribeiro" height="30" width="40" /></a>
+<a href="https ://fb.com/wiuver ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/facebook.svg" alt="wiuver ribeiro" height="30" width="40" /></a>
+<a href="https://instagram.com/@_wiuver" target= "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_wiuver" height="30" width="40" /> </a>
+<a href="https://www.youtube.com/c/wiuver ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiuver ribeiro" height="30" width="40" /></a>
+<a href="https:/ /discord.gg/wiuver ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/discord.svg" alt="wiuver ribeiro" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https:/ /github-readme-stats.vercel.app/api/top-langs?username=wiuver-ribeiro&show_icons=true&locale=en&layout=compact" alt="wiuver-ribeiro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiuver-ribeiro&" alt="wiuver-ribeiro" /></p>
 
 
 
-
-
-## WELCOME TO MY PROFILE :raised_hand:
-
-#### :mortar_board: Graduado em Técnico em Informática pelo Instituto Federal Goiano Campus Morrinhos :round_pushpin:
-+  :running: Estudante de programação desde 2017
-+ :white_check_mark: Atualmente cursando Sistemas para Internet(TSI) :computer: :books:
- ## Tecnologias: 💻
- ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![image](https://camo.githubusercontent.com/77d868d39224471e479794e6fc439e2951f4a044d1facded66c048bae75aa00f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2532302d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-
-> :purple_heart: :rocket: _"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original"_ - Albert Einstein
