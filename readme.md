@@ -40,7 +40,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wiuver-Ribeiro&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wiuver-Ribeiro&&theme=xcode)](https://github.com/Wiuver-Ribeiro)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wiuver-Ribeiro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Wiuver Ribeiro" /></p>
 
