@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/293594764/baaa9580-7f68-11eb-8e18-e956d8b8b6d8)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Wiuver Ribeiro</h1>
+<h1 align="center">Hello! 👋, I'm Wiuver Ribeiro</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
